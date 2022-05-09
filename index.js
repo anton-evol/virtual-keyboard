@@ -544,7 +544,7 @@ function getKeyLangAndRegister() {
 }
 
 const title = document.createElement('h1');
-title.innerHTML = 'Vitrual keyboard';
+title.innerHTML = 'Virtual keyboard';
 
 const description = document.createElement('h3');
 description.innerHTML += 'Hi! Virtual keyboard is based on Mac physical keyboard.<br>';
